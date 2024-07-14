@@ -1,15 +1,32 @@
 // code starts here
-//
-
-X CLOSE DAY 1: VARIABLES AND DATA TYPES 
+// X CLOSE DAY 1: VARIABLES AND DATA TYPES 
 
 Day 1: Variables and Data Types 
 Tasks/Activities: 
 
 Activity 1: Variable Declaration
 Task 1: Declare a variable using var , assign it a number, and log the value to the console. 
+
+code: // Declaring a variable using var
+var myNumber;
+
+// Assigning a number to the variable
+myNumber = 10;
+
+// Logging the value to the console
+console.log(myNumber);
+
+
 Task 2: Declare a variable using let , assign it a string, and log the value to the console.
 
+// code:  Declaring a variable using let
+let myString;
+
+// Assigning a string to the variable
+myString = "Hello, world!";
+
+// Logging the value to the console
+console.log(myString);
 
 Activity 2: Constant Declaration
 Task 3: Declare a variable using const , assign it a Boolean value, and log the value to the console. 
